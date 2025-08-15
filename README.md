@@ -35,12 +35,12 @@ This project combines **AI-driven analysis**, **real-time visualization**, and a
 **Frontend:**
 - React.js
 - D3.js / Chart.js for visualizations
-- TailwindCSS (optional for styling)
+- TailwindCSS 
 
 **Backend:**
 - Flask (Python)
 - Transformer models (PyTorch / TensorFlow)
-- PostgreSQL database
+
 
 **ML & Data Science:**
 - Transformers for anomaly detection
@@ -67,11 +67,4 @@ This project combines **AI-driven analysis**, **real-time visualization**, and a
 - Providing **proactive security alerts** before a breach occurs.
 
 ---
-
-## 📸 Screenshots
-*(Add your dashboard and analysis output screenshots here)*
-
----
-
-## 📂 Project Structure
 
